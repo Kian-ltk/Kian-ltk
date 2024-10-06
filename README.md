@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kian (@Kian-ltk)
+- 👋 Hi, I’m kian ( @Kian-ltk )
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
